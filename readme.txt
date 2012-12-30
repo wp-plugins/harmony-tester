@@ -12,7 +12,7 @@ Harmony Tester is a plugin for highlighting and replacing keywords. 和谐测试
 
 == Description ==
 
-= English =
+= Harmony Tester =
 **Built-in Keywords libraries**
 3 built-in base64-encoded keywords libraries for mainland China and 1 custom keywords library. 
 
@@ -20,6 +20,7 @@ Harmony Tester is a plugin for highlighting and replacing keywords. 和谐测试
 User can check the content in edit screen. Keywords will be highlighted in different colors.
 
 **Replace Keywords Automatically**
+
 * Replace keywords when a post, page or comment is updated.
 * Replace keywords when a post, page or comment is requested to display.
 
@@ -27,7 +28,7 @@ User can check the content in edit screen. Keywords will be highlighted in diffe
 Replace keywords by a certain pattern or delete them in the content.
 
 
-= 中文 =
+= 和谐测试器 =
 **内置敏感词汇库**
 三个使用BASE64加密的敏感词汇库和一个自定义敏感词汇库 
 
@@ -35,11 +36,14 @@ Replace keywords by a certain pattern or delete them in the content.
 用户可以在编辑文档时对敏感词汇进行高亮，不同的敏感词汇会被标记上不同的颜色
 
 **自动替换文章和评论内容**
+
 * 在文章、评论更新时替换：节省资源
 * 在文章、评论被请求显示时替换：不改变原始内容
 
 **使用特定词汇语替换**
 将敏感词汇替换为特定字符，或者直接删除所有敏感词汇
+
+[xiaoxia.de](http://xiaoxia.de/)
 
 == Installation ==
 
@@ -59,8 +63,6 @@ Replace keywords by a certain pattern or delete them in the content.
 This is a tool to convert Keywords Library between BASE64 and TEXT
 这个工具可以将敏感词汇库和文本之间互相转换
 
-
-[xiaoxia.de](http://xiaoxia.de/)
 
 == Frequently Asked Questions ==
 
