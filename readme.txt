@@ -1,5 +1,4 @@
 === Harmony Tester ===
-
 Contributors: neverweep
 Donate link: 
 Tags: filter,post,page,comment,replace,harmony,keyword
@@ -10,9 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Harmony Tester a plugin for highlighting and replacing keywords in posts, pages and comments.
-ºÍĞ³²âÊÔÆ÷ÊÇÒ»¸öÓÃÀ´¸ßÁÁºÍÌæ»»Ãô¸Ğ´Ê»ãµÄ²å¼ş
-
-
+å’Œè°æµ‹è¯•å™¨æ˜¯ä¸€ä¸ªç”¨æ¥é«˜äº®å’Œæ›¿æ¢æ•æ„Ÿè¯æ±‡çš„æ’ä»¶
 
 == Description ==
 
@@ -30,20 +27,18 @@ User can check the content in edit screen. Keywords will be highlighted in diffe
 Replace keywords by a certain pattern or delete them in the content.
 
 
-### ÄÚÖÃÃô¸Ğ´Ê»ã¿â
-Èı¸öÊ¹ÓÃBASE64¼ÓÃÜµÄÃô¸Ğ´Ê»ã¿âºÍÒ»¸ö×Ô¶¨ÒåÃô¸Ğ´Ê»ã¿â 
+### å†…ç½®æ•æ„Ÿè¯æ±‡åº“
+ä¸‰ä¸ªä½¿ç”¨BASE64åŠ å¯†çš„æ•æ„Ÿè¯æ±‡åº“å’Œä¸€ä¸ªè‡ªå®šä¹‰æ•æ„Ÿè¯æ±‡åº“ 
 
-### ±à¼­½çÃæ¸ßÁÁÃô¸Ğ´Ê»ã
-ÓÃ»§¿ÉÒÔÔÚ±à¼­ÎÄµµÊ±¶ÔÃô¸Ğ´Ê»ã½øĞĞ¸ßÁÁ£¬²»Í¬µÄÃô¸Ğ´Ê»ã»á±»±ê¼ÇÉÏ²»Í¬µÄÑÕÉ«
+### ç¼–è¾‘ç•Œé¢é«˜äº®æ•æ„Ÿè¯æ±‡
+ç”¨æˆ·å¯ä»¥åœ¨ç¼–è¾‘æ–‡æ¡£æ—¶å¯¹æ•æ„Ÿè¯æ±‡è¿›è¡Œé«˜äº®ï¼Œä¸åŒçš„æ•æ„Ÿè¯æ±‡ä¼šè¢«æ ‡è®°ä¸Šä¸åŒçš„é¢œè‰²
 
-### ×Ô¶¯Ìæ»»ÎÄÕÂºÍÆÀÂÛÄÚÈİ
-- ÔÚÎÄÕÂ¡¢ÆÀÂÛ¸üĞÂÊ±Ìæ»»£º½ÚÊ¡×ÊÔ´
-- ÔÚÎÄÕÂ¡¢ÆÀÂÛ±»ÇëÇóÏÔÊ¾Ê±Ìæ»»£º²»¸Ä±äÔ­Ê¼ÄÚÈİ
+### è‡ªåŠ¨æ›¿æ¢æ–‡ç« å’Œè¯„è®ºå†…å®¹
+- åœ¨æ–‡ç« ã€è¯„è®ºæ›´æ–°æ—¶æ›¿æ¢ï¼šèŠ‚çœèµ„æº
+- åœ¨æ–‡ç« ã€è¯„è®ºè¢«è¯·æ±‚æ˜¾ç¤ºæ—¶æ›¿æ¢ï¼šä¸æ”¹å˜åŸå§‹å†…å®¹
 
-### Ê¹ÓÃÌØ¶¨´Ê»ãÓïÌæ»»
-½«Ãô¸Ğ´Ê»ãÌæ»»ÎªÌØ¶¨×Ö·û£¬»òÕßÖ±½ÓÉ¾³ıËùÓĞÃô¸Ğ´Ê»ã
-
-
+### ä½¿ç”¨ç‰¹å®šè¯æ±‡è¯­æ›¿æ¢
+å°†æ•æ„Ÿè¯æ±‡æ›¿æ¢ä¸ºç‰¹å®šå­—ç¬¦ï¼Œæˆ–è€…ç›´æ¥åˆ é™¤æ‰€æœ‰æ•æ„Ÿè¯æ±‡
 
 == Installation ==
 
@@ -52,14 +47,21 @@ Replace keywords by a certain pattern or delete them in the content.
 1. Set up Harmony Tester
 1. Click "Display Settings" and check "Harmony Tester", then click "Check Content"
 
-1. ÉÏ´«`harmony-tester`µ½`/wp-content/plugins/`Ä¿Â¼
-1. ÔÚWordPress²å¼ş²Ëµ¥¼¤»î
-1. ¶Ô²å¼ş½øĞĞÉèÖÃ
-1. ±à¼­ÎÄÕÂÊ±£¬µã»÷ÉÏ·½¡°ÏÔÊ¾Ñ¡Ïî¡±£¬Ñ¡ÔñºÍĞ³²âÊÔÆ÷£¬È»ºóµã»÷¡°¼ì²éÄÚÈİ¡±
+1. ä¸Šä¼ `harmony-tester`åˆ°`/wp-content/plugins/`ç›®å½•
+1. åœ¨WordPressæ’ä»¶èœå•æ¿€æ´»
+1. å¯¹æ’ä»¶è¿›è¡Œè®¾ç½®
+1. ç¼–è¾‘æ–‡ç« æ—¶ï¼Œç‚¹å‡»ä¸Šæ–¹â€œæ˜¾ç¤ºé€‰é¡¹â€ï¼Œé€‰æ‹©å’Œè°æµ‹è¯•å™¨ï¼Œç„¶åç‚¹å‡»â€œæ£€æŸ¥å†…å®¹â€
 
-
+== Frequently Asked Questions ==
 
 == Screenshots ==
 
-1. http://xiaoxia.de/upload/screenshot1.png
-2. http://xiaoxia.de/upload/screenshot2.png
+1. /trunk/screenshot1.png
+2. /trunk/screenshot2.png
+
+== Changelog ==
+
+= 1.0 =
+First Version.
+
+== Arbitrary section ==
