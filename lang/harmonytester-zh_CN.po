@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-31 10:42+0800\n"
+"PO-Revision-Date: 2012-12-31 10:47+0800\n"
+"Last-Translator: xiaoxia.de <i@xiaoxia.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: harmony-tester.php:1
+msgid "Politic Keywords"
+msgstr "政治词汇"
+
+#: harmony-tester.php:1
+msgid "Porny Keywords"
+msgstr "色情词汇"
+
+#: harmony-tester.php:1
+msgid "Other Keywords"
+msgstr "其他词汇"
+
+#: harmony-tester.php:1
+msgid "Custom Keywords"
+msgstr "自定义词汇"
+
+#: harmony-tester.php:1
+msgid "Test"
+msgstr "测试"
+
+#: harmony-tester.php:1
+msgid "Collapse"
+msgstr "收回"
+
+#: harmony-tester.php:1
+msgid "Options Updated."
+msgstr "设置已更新"
+
+#: harmony-tester.php:1
+msgid "Harmony Tester Options"
+msgstr "和谐测试器 选项"
+
+#: harmony-tester.php:1
+msgid "Keywords Library"
+msgstr "词汇库"
+
+#: harmony-tester.php:1
+msgid "Custom Keywords (One keyword per line)"
+msgstr "自定义词汇（一词一行）"
+
+#: harmony-tester.php:1
+msgid "Harmonize"
+msgstr "和谐"
+
+#: harmony-tester.php:1
+msgid "Posts & Pages"
+msgstr "文章和页面"
+
+#: harmony-tester.php:1
+msgid "Off"
+msgstr "关闭"
+
+#: harmony-tester.php:1
+msgid "On Saving"
+msgstr "更新时"
+
+#: harmony-tester.php:1
+msgid "On Formatting"
+msgstr "显示时"
+
+#: harmony-tester.php:1
+msgid "\"Off\" is recommended."
+msgstr "推荐使用 \"关闭\"，在编辑时使用“测试”功能检查。"
+
+#: harmony-tester.php:1
+msgid "Comments"
+msgstr "评论"
+
+#: harmony-tester.php:1
+msgid "\"On Saving\" is recommended."
+msgstr "推荐使用 \"更新时\""
+
+#: harmony-tester.php:1
+msgid "Method"
+msgstr "方式"
+
+#: harmony-tester.php:1
+msgid "Replace"
+msgstr "替换"
+
+#: harmony-tester.php:1
+msgid "Obfuscate"
+msgstr "混淆"
+
+#: harmony-tester.php:1
+msgid "Replace: \"Hello\" => \"World\"; Obfuscata: \"Hello\" => \"H*e*l*l*o\""
+msgstr "替换：“你好”=>“世界”；混淆：“你好”=>“你囧好”"
+
+#: harmony-tester.php:1
+msgid "Replace By"
+msgstr "替换"
+
+#: harmony-tester.php:1
+msgid "Leave this blank to delete all keywords."
+msgstr "此处空白则直接删除关键词"
+
+#: harmony-tester.php:1
+msgid "Obfuscate By"
+msgstr "混淆"
+
+#: harmony-tester.php:1
+msgid "Fill in this with one or more character(s)"
+msgstr "填入一个或多个字符"
+
+#: harmony-tester.php:1
+msgid "Update Options"
+msgstr "更新设置"
+
+#: harmony-tester.php:1
+msgid "Harmony Tester"
+msgstr "和谐测试器"
+

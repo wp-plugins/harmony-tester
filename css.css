@@ -1,0 +1,11 @@
+#ht_wrap #btn{float:right}
+#ht_wrap #ctr{line-height:26px}
+#ht_wrap #ht_check_btn,#ht_wrap #ht_reset{cursor:pointer}
+#ht_wrap input,#ht_wrap img{margin-right:5px;vertical-align:middle}
+#ht_wrap label{margin-right:20px}
+#ht_wrap .clearfix{clear:both}
+#ht_wrap span.keyword_red{background:#F99;color:#000}
+#ht_wrap span.keyword_green{background:#9F9;color:#000}
+#ht_wrap span.keyword_yellow{background:yellow;color:#000}
+#ht_wrap span.keyword_blue{background:#99F;color:#000}
+#ht_content{padding:0 5px;margin-top:1em;background:#FFF;border:1px solid #CCC;border-radius:3px}
