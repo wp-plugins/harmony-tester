@@ -3,7 +3,7 @@ Contributors: neverweep
 Tags: filter,replace,harmony,keyword,obfuscate,和谐,敏感词,过滤,混淆,替换
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 1.11
+Stable tag: 1.2
 
 Harmony Tester is for highlighting and replacing keywords (for mainland China). 和谐测试器是一个用来高亮和替换敏感词汇的插件
 
@@ -27,6 +27,7 @@ Harmony Tester is for highlighting and replacing keywords (for mainland China). 
 
 * 将敏感词汇替换为特定字符，或者直接删除所有敏感词汇
 * 将敏感词汇混淆，如将“你好世界”混淆为“你囧好囧世囧界”
+* 自定义词库支持正则表达式替换，还可以指定某个敏感词替换为特定单词。
 
 = Harmony Tester =
 **Built-in Keywords libraries**
@@ -41,11 +42,12 @@ User can check the content in edit screen. Keywords will be highlighted in diffe
 
 * Replace keywords when a post, page or comment is updated.
 * Replace keywords when a post, page or comment is requested to display.
+* Regular expression.
 
 **Replace Keywords By A Certain Pattern**
 
 * Replace keywords by a certain pattern or delete them in the content.
-* Obfuscate keywords. eg. "Hello" => "H*e*l*l*o"
+* Obfuscate keywords. eg. "Hello" => "H\*e\*l\*l\*o"
 
 
 > Blog: [http://xiaoxia.de/](http://xiaoxia.de/)
