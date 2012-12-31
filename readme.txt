@@ -1,7 +1,6 @@
 ﻿=== Harmony Tester ===
 Contributors: neverweep
-Donate link: 
-Tags: filter,post,page,comment,replace,harmony,keyword
+Tags: filter,replace,harmony,keyword,obfuscate,和谐,敏感词,过滤,混淆,替换
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.11
@@ -75,7 +74,7 @@ This is a tool to convert Keywords Library between BASE64 and TEXT
 
 == Frequently Asked Questions ==
 
-None
+Nothing
 
 == Screenshots ==
 
@@ -94,4 +93,4 @@ First Version.
 
 == Upgrade Notice == 
 
-None
+Nothing
