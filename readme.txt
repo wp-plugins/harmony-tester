@@ -8,7 +8,7 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Harmony Tester is a plugin for highlighting and replacing keywords (for mainland China). 和谐测试器是一个用来高亮和替换敏感词汇的插件
+Harmony Tester is for highlighting and replacing keywords (for mainland China). 和谐测试器是一个用来高亮和替换敏感词汇的插件
 
 == Description ==
 
