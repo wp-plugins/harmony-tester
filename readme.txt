@@ -4,8 +4,6 @@ Tags: filter,replace,harmony,keyword,obfuscate,和谐,敏感词,过滤,混淆,�
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.11
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Harmony Tester is for highlighting and replacing keywords (for mainland China). 和谐测试器是一个用来高亮和替换敏感词汇的插件
 
