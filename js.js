@@ -16,7 +16,12 @@ function ht_check($url) {
     } else {
         content = jQuery('#content').val().replace(/\</g, '&lt;').replace(/\>/g, '&gt;').replace(/\n/g, '<br/>').replace(/\s*/g, '');
     }
-	if(content == '')return;
+    title = jQuery('#title').attr('value');
+    if (title) {
+        content = '<h2 id=ht_test_title>' + jQuery('#title').attr('value').replace(/\</g, '&lt;').replace(/\>/g, '&gt;').replace(/\s*/g, '') + '</h2>' + content;
+    }
+    if (content == '')
+        return;
     jQuery('#ht_wrap #btn').prepend('<img src="' + $url + '/wp-admin/images/wpspin_light.gif" id="ht_loading" />');
     jQuery('#ht_wrap #ht_check_btn').attr('disabled', 'disabled');
     jQuery.post($url + '/wp-admin/admin-ajax.php', {
