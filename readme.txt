@@ -44,9 +44,9 @@ User can check the content in edit screen. Keywords will be highlighted in diffe
 * Replace keywords when a post, page or comment is updated.
 * Replace keywords when a post, page or comment is requested to display.
 
-**Replace Keywords By A Certain Pattern**
+**Replace Keywords With A Certain Pattern**
 
-* Replace keywords by a certain pattern or delete them in the content.
+* Replace keywords with a certain pattern or delete them in the content.
 * Obfuscate keywords. eg. "Hello" => "H\*e\*l\*l\*o"
 * Regular expression is supported in custom keyword library.
 * You can identify a word you want to replace every single keyword in custom keyword library with.
@@ -58,13 +58,13 @@ User can check the content in edit screen. Keywords will be highlighted in diffe
 
 == Installation ==
 
-= 中文 =
+= 安装 =
 1. 上传 `harmony-tester` 到 `/wp-content/plugins/` 目录
 1. 在WordPress插件菜单激活
 1. 对插件进行设置
 1. 编辑文章时，点击上方“显示选项”，选择和谐测试器，然后点击“检查”
 
-= English =
+= Installation =
 1. Upload `harmony-tester` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Set up Harmony Tester
