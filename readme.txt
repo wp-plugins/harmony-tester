@@ -3,7 +3,7 @@ Contributors: neverweep
 Tags: filter,replace,harmony,keyword,obfuscate,和谐,敏感词,过滤,混淆,替换
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 1.30
+Stable tag: 1.31
 
 Harmony Tester is for highlighting and replacing keywords (for mainland China). 和谐测试器是一个用来高亮和替换敏感词汇的插件
 
@@ -86,6 +86,8 @@ Nothing
 
 == Changelog ==
 
+= 1.31 =
+Fix: Some bugs.
 
 = 1.30 =
 New: Uninstall function
